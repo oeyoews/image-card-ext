@@ -12,7 +12,7 @@
 
 ## Install
 
-* https://github.com/oeyoews/image-card/releases
+* https://github.com/oeyoews/image-card-ext/releases
 
 ## Credits
 
